@@ -1,0 +1,109 @@
+h1{
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 70px;
+	text-align: center;
+	font-family: 'Libre Franklin', sans-serif;
+	background: #DB4034;
+	color: white;
+	padding: 50px;
+	width: 700;
+	height: auto;
+	margin-top: 30px;
+	
+}
+div{
+	font-family: 'Libre Franklin', sans-serif;
+	color: white;
+	background: #009D78;
+	padding: 50px;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	
+}
+
+/*linear-gradient(rgba(0,0,0,0.527),rgba(0,0,0,0.5)),*/
+
+body{
+	width: 100%;
+	background-image:linear-gradient(rgba(0,0,0,0.327),rgba(0,0,0,0.5)), url('kim-s-convenience.png');
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+img{
+	float: right;
+	border: 10px;
+	border-radius: 10px;
+	margin-left: 12px;
+	margin-bottom: 12px;
+	margin-right: 17px;
+	display: block;
+	
+}
+table{
+	background: #eae0c7;
+	width: 100%;
+	border-radius: 5px;
+}
+th, td{
+	padding: 7px;
+	text-align: left;
+	border-bottom: 2px solid white;
+}
+tr:hover{
+	background-color: #ffe5b4;
+}
+a{
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+ul{
+	
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #eae0c7;
+	border-radius: 5px;
+	
+}
+li{
+	font-family: 'Libre Franklin', sans-serif;
+	float: left;
+	
+}
+
+li a{
+	display: block;
+	color:black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+
+li a:hover{
+	background-color: #ffe5b4;
+}
+
+.active{
+	background-color: #eae0c7;
+}
+
+iframe{
+	display: block;
+	margin: 0 auto;
+	margin-top: 30px;
+	border-radius: 5px;
+	
+}
+
+
+
+
+
+
+
